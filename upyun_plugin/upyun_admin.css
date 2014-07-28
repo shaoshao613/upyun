@@ -1,0 +1,64 @@
+#upyun-wrap {
+    margin-right: 1%;
+}
+
+/* Help Text */
+.upyun-help {
+    font-size:90%;
+    font-style:italic;
+}
+
+#upyun-container {
+    margin: 0 auto;
+}
+
+table.upyun-settings-box {
+    border: 1px solid #009edd;
+}
+
+table.upyun-side-box {
+    border: 1px solid #ddc000;
+}
+
+#upyun-main-box {
+    float:left;
+    width: 69%;
+}
+
+#upyun-side-box {
+    float:right;
+    width: 29%;
+}
+
+th.upyun-label {
+    width:15%;
+}
+
+th.upyun-input {
+    width: 30%;
+}
+
+th.upyun-help-bubble {
+    width: 35%;
+}
+
+.upyun-small-input {
+    width: 50% !important;
+}
+
+.upyun-input[type="text"] {
+    width: 90%;
+}
+img.imgsty{
+width: 100%;
+height: auto;
+}
+li.liimg{
+width: 25%;
+height: auto;
+float: left;
+border: 7px solid #fff;
+margin-left: 2%;
+}
+.upyun-saved-alternate {
+    background: #f9f9f9;
